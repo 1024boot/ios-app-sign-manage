@@ -1,6 +1,6 @@
 # 尼卡应用签名管理工具
 - 官网：https://nikaap.com
-- QQ：[1502717003](http://wpa.qq.com/msgrd?v=3&uin=1502717003&site=qq&menu=yes)
+- QQ技术客服：[1502717003](http://wpa.qq.com/msgrd?v=3&uin=1502717003&site=qq&menu=yes)
 - QQ群：305947680
 - 邮箱：nika@nikaap.com
 
